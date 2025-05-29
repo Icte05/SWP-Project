@@ -1,2 +1,0 @@
-Dal.DBContext
-dal.DBConnect
